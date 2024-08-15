@@ -12,8 +12,7 @@ def crunch_neoma_data(df, isotope_system ):
 
     Interference_data_list = [['174Hf Static 1', '176Hf Static 1', '180Hf Static 1']]
     
-    Mass_bias_data_list = [['178Hf/177Hf', '179Hf/177Hf', '173Yb/177Hf', '175Lu/177Hf', '181Ta/177Hf', '183W/177Hf', '173Yb/176Hf monitor', '175Lu/176Hf monitor',
-                '174Hf/177Hf MB+I', '176Hf/177Hf MB+I', '180Hf/177Hf MB+I', '177Hf.O/177Hf']]
+    Mass_bias_data_list = [['174Hf/177Hf MB+I', '176Hf/177Hf MB+I', '180Hf/177Hf MB+I']]
 
 ##################################################################################
 
